@@ -7,4 +7,4 @@ Chess education should be free and affordable!
 They say chess is not spectator friendly. We have a contrary opinion
 
 Climb the laddr!
-# .github
+# Laddr
