@@ -1,5 +1,5 @@
 ## Hi there 👋
-Laddr is a startup that aims to expand the growth of chess through innovation.
+Laddr aims to expand the growth of chess.
 
 We want to reinvent chess
 
