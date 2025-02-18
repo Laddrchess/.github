@@ -1,13 +1,11 @@
 ## Hi there 👋
-Laddr aims to expand the growth of chess.
+Laddr aims to expand the growth of chess🚀.
 
-We want to reinvent chess
+Our focus is on solving two major problems
+1. Making Chess education free and affordable!
+2. Making Chess easy to understand & exciting to watch.🥰🤯🥳
 
-Chess education should be free and affordable!
-
-They say chess is not spectator-friendly. We have a contrary opinion.
-
-Climb the laddr!
+Climb the laddr!🧗‍♂️
 
 
 <!--
